@@ -1,6 +1,6 @@
 # Listening to Nodes
 
-## Objectives
+## Objectives 
 
 1. Add an event listener to a DOM node
 2. Trigger event listeners on DOM nodes
